@@ -28,7 +28,7 @@ analise-cancelamento-clientes/
 
 ---
 
-## Tecnologias Utilizadas
+## Ambiente e Ferramentas Utilizadas
 
 - Python 3.x
 
